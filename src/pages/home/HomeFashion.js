@@ -14,7 +14,7 @@ const HomeFashion = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="Tech-O-Matic || Home"
+        titleTemplate="Home"
         description="Shop with us, get more value."
       />
      

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const HeroSliderOneSingle = ({ data }) => {
   return (
-    <div className="single-slider slider-height-1 bg-purple">
+    <div className="single-slider slider-height-1">
       <div className="container">
         <div className="row">
           <div className="col-xl-6 col-lg-6 col-md-6 col-12 col-sm-6">
