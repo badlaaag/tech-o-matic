@@ -5,16 +5,16 @@ import HeroSliderOne from "../../wrappers/hero-slider/HeroSliderOne";
 import FeatureIcon from "../../wrappers/feature-icon/FeatureIcon";
 import TabProduct from "../../wrappers/product/TabProduct";
 import BlogFeatured from "../../wrappers/blog-featured/BlogFeatured";
+import PopupAd from "../../components/PopupAd";
 
 
 
 
-const HomeFashion = () => {
- 
+const Home = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="Home"
+        titleTemplate=" Home"
         description="Shop with us, get more value."
       />
      
@@ -34,11 +34,12 @@ const HomeFashion = () => {
 
         {/* blog featured */}
         <BlogFeatured spaceBottomClass="pb-55" />
-        
+        <PopupAd />
       </LayoutOne>
+      
     </Fragment>
     
   );
 };
 
-export default HomeFashion;
+export default Home;

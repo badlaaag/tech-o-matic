@@ -3,7 +3,7 @@ import ScrollToTop from "./helpers/scroll-top";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // home pages
-const HomeFashion = lazy(() => import("./pages/home/HomeFashion"));
+const Home = lazy(() => import("./pages/home/Home"));
 
 // shop pages
 const Shop = lazy(() => import("./pages/shop/Shop"));
@@ -61,18 +61,18 @@ const App = () => {
             <Routes>
               <Route
                 path={process.env.PUBLIC_URL + "/"}
-                element={<HomeFashion/>}
+                element={<Home/>}
               />
 
               {/* Homepages */}
               <Route
                 path={process.env.PUBLIC_URL + "/home-fashion"}
-                element={<HomeFashion/>}
+                element={<Home/>}
               />
 
               {/* Shop pages */}
               <Route
-                path={process.env.PUBLIC_URL + "/shop-grid-standard"}
+                path={process.env.PUBLIC_URL + "/shop"}
                 element={<Shop/>}
               />
            
@@ -105,7 +105,7 @@ const App = () => {
 
               {/* Blog pages */}
               <Route
-                path={process.env.PUBLIC_URL + "/blog-standard"}
+                path={process.env.PUBLIC_URL + "/blog"}
                 element={<BlogStandard/>}
               />
               <Route

@@ -25,7 +25,7 @@ const Contact = () => {
         <div className="contact-area pt-100 pb-100">
           <div className="container">
             <div className="contact-map mb-10">
-              <GoogleMap lat={47.444} lng={-122.176} />
+              <GoogleMap lat={14.7429764} lng={121.1332085155} />
             </div>
             <div className="custom-row-2">
               <div className="col-12 col-lg-4 col-md-5">
@@ -51,7 +51,7 @@ const Contact = () => {
                       </p>
                       <p>
                         <a href="https://yourwebsitename.com">
-                          yourwebsitename.com
+                          Tech-o-Matic.com
                         </a>
                       </p>
                     </div>
@@ -61,8 +61,8 @@ const Contact = () => {
                       <i className="fa fa-map-marker" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>Address goes here, </p>
-                      <p>street, Crossroad 123.</p>
+                      <p>Montalban Rizal </p>
+                      <p></p>
                     </div>
                   </div>
                   <div className="contact-social text-center">
@@ -74,18 +74,13 @@ const Contact = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="//pinterest.com">
-                          <i className="fa fa-pinterest-p" />
+                        <a href="//youtube.com">
+                          <i className="fa fa-youtube" />
                         </a>
                       </li>
                       <li>
-                        <a href="//thumblr.com">
-                          <i className="fa fa-tumblr" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="//vimeo.com">
-                          <i className="fa fa-vimeo" />
+                        <a href="//instagram.com">
+                          <i className="fa fa-instagram" />
                         </a>
                       </li>
                       <li>
