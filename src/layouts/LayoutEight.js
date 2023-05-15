@@ -21,7 +21,7 @@ const LayoutEight = ({
       />
       {children}
       <FooterOne
-        backgroundColorClass="bg-gray"
+        backgroundColorClass="bg-danger"
         spaceTopClass="pt-100"
         spaceBottomClass="mb-70 pb-70"
         spaceLeftClass="ml-70"

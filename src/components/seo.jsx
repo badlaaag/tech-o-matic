@@ -22,9 +22,9 @@ SEO.propTypes = {
 }
 
 SEO.defaultProps = {
-    title: "Tech-o-matic",
-    titleTemplate: "",
-    description: "",
+    title: "Tech-O-Matic",
+    titleTemplate: "Product Page",
+    description: "React Minimalist eCommerce",
 };
 
 export default SEO;
