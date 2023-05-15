@@ -12,7 +12,7 @@ const Contact = () => {
     <Fragment>
       <SEO
         titleTemplate="Contact"
-        description="Contact page of flone react minimalist eCommerce template."
+        description="Tech-o-matic e-commerce website mobile"
       />
       <LayoutOne headerTop="visible">
         {/* breadcrumb */}
@@ -35,8 +35,8 @@ const Contact = () => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>+012 345 678 102</p>
-                      <p>+012 345 678 102</p>
+                      <p>+639430901821</p>
+                      <p>+639408090182</p>
                     </div>
                   </div>
                   <div className="single-contact-info">
@@ -46,7 +46,7 @@ const Contact = () => {
                     <div className="contact-info-dec">
                       <p>
                         <a href="mailto:yourname@email.com">
-                          yourname@email.com
+                          acevins@gmail.com
                         </a>
                       </p>
                       <p>

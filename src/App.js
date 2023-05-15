@@ -74,6 +74,10 @@ const App = () => {
               />
 
               {/* Homepages */}
+              <Route
+                path={process.env.PUBLIC_URL + "/home-fashion"}
+                element={<HomeFashion/>}
+              />
 
               {/* Shop pages */}
               <Route
