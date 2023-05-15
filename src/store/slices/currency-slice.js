@@ -14,7 +14,7 @@ const currencySlice = createSlice({
             if (currencyName === "USD") {
                 return state = {
                     currencySymbol: "$",
-                    currencyRate: 1,
+                    currencyRate: 1.088,
                     currencyName
                 };
             }
@@ -25,10 +25,10 @@ const currencySlice = createSlice({
                     currencyName
                 };
             }
-            if (currencyName === "GBP") {
+            if (currencyName === "PHP") {
                 return state = {
-                    currencySymbol: "£",
-                    currencyRate: 1,
+                    currencySymbol: "₱",
+                    currencyRate: 60.958,
                     currencyName
                 };
             }

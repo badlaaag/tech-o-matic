@@ -17,7 +17,7 @@ const About = () => {
     <Fragment>
       <SEO
         titleTemplate="About us"
-        description="About page of flone react minimalist eCommerce template."
+        description=""
       /> 
       <LayoutOne headerTop="visible">
         {/* breadcrumb */}
@@ -35,7 +35,7 @@ const About = () => {
         <BannerOne spaceBottomClass="pb-70" />
 
         {/* text grid */}
-        <TextGridOne spaceBottomClass="pb-70" />
+          
 
         {/* fun fact */}
         <FunFactOne
