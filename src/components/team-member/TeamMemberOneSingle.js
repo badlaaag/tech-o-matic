@@ -21,11 +21,11 @@ const TeamMemberOneSingle = ({ data, spaceBottomClass }) => {
             </a>
             <a
               className="twitter"
-              href={data.twitterLink}
+              href={data.YoutubeLink}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="fa fa-twitter" />
+              <i className="fa fa-youtube" />
             </a>
             <a
               className="instagram"

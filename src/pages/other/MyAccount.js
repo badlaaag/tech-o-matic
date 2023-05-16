@@ -12,7 +12,7 @@ const MyAccount = () => {
     <Fragment>
       <SEO
         titleTemplate="My Account"
-        description="My Account page of flone react minimalist eCommerce template."
+        description=""
       />
       <LayoutOne headerTop="visible">
         {/* breadcrumb */}
