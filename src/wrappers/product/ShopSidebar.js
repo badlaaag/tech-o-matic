@@ -4,12 +4,12 @@ import {
   getIndividualCategories,
   getIndividualTags,
   getIndividualColors,
-  getProductsIndividualSizes
+ 
 } from "../../helpers/product";
 import ShopSearch from "../../components/product/ShopSearch";
 import ShopCategories from "../../components/product/ShopCategories";
+import GiphyEmbed from '../../components/GiphyEmbed';
 import ShopColor from "../../components/product/ShopColor";
-
 import ShopTag from "../../components/product/ShopTag";
 
   const ShopSidebar = ({ products, getSortParams, sideSpaceClass }) => {
@@ -28,12 +28,18 @@ import ShopTag from "../../components/product/ShopTag";
         getSortParams={getSortParams}
       />
 
-      {/* filter by color */}
-      <ShopColor colors={uniqueColors} getSortParams={getSortParams} />
+      {/* filter by color
+      <ShopColor colors={uniqueColors} getSortParams={getSortParams} /> */}
 
-      {/* filter by tag 
-      <ShopTag tags={uniqueTags} getSortParams={getSortParams} />*/}
+       {/* filter by tag 
+      <ShopTag tags={uniqueTags} getSortParams={getSortParams} /> */}
+
+<br/>
+
+<GiphyEmbed />
+
     </div>
+    
   );
 };
 
