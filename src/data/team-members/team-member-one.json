@@ -5,17 +5,18 @@
     "fbLink": "//www.facebook.com",
     "twitterLink": "//www.twitter.com",
     "instagramLink": "//www.instagram.com",
-    "name": "Vins Alenjandria",
+    "name": "Vins Alejandria",
     "position": "Developer"
   },
+ 
   {
-    "id": "2",
-    "image": "/assets/img/team/team-3.jpg",
+    "id": "3",
+    "image": "/assets/img/team/team-2.jpg",
     "fbLink": "//www.facebook.com",
     "twitterLink": "//www.twitter.com",
     "instagramLink": "//www.instagram.com",
     "name": "Gerbe Ace Lubao",
     "position": "Developer"
   }
-  
+ 
 ]
