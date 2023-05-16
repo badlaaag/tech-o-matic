@@ -58,7 +58,7 @@ const Checkout = () => {
                           <label>Country</label>
                           <select>
                             <option>Select a country</option>
-                            <option>Philipines</option>
+                            <option>Philippines</option>
                             <option>Bahamas</option>
                             <option>Bahrain</option>
                             <option>Bangladesh</option>

@@ -38,8 +38,8 @@ const TeamMemberOneSingle = ({ data, spaceBottomClass }) => {
           </div>
         </div>
         <div className="team-content text-center">
-          <h4>asdas</h4>
-          <span>dasds </span>
+          <h4>{data.name}</h4>
+          <span>{data.position} </span>
         </div>
       </div>
   );
