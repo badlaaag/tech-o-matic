@@ -31,8 +31,8 @@ import ShopTag from "../../components/product/ShopTag";
       {/* filter by color */}
       <ShopColor colors={uniqueColors} getSortParams={getSortParams} />
 
-      {/* filter by tag */}
-      <ShopTag tags={uniqueTags} getSortParams={getSortParams} />
+      {/* filter by tag 
+      <ShopTag tags={uniqueTags} getSortParams={getSortParams} />*/}
     </div>
   );
 };
