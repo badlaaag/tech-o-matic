@@ -62,7 +62,7 @@ const ProductDescriptionTab = ({ spaceBottomClass, productFullDesc }) => {
                           <div className="review-top-wrap">
                             <div className="review-left">
                               <div className="review-name">
-                                <h4>White Lewis</h4>
+                                <h4>test</h4>
                               </div>
                               <div className="review-rating">
                                 <i className="fa fa-star" />
@@ -100,7 +100,7 @@ const ProductDescriptionTab = ({ spaceBottomClass, productFullDesc }) => {
                           <div className="review-top-wrap">
                             <div className="review-left">
                               <div className="review-name">
-                                <h4>White Lewis</h4>
+                                <h4>test</h4>
                               </div>
                               <div className="review-rating">
                                 <i className="fa fa-star" />

@@ -16,7 +16,7 @@ const BlogSidebar = () => {
         </div>
       </div>
       <div className="sidebar-widget">
-        <h4 className="pro-sidebar-title">Recent Projects </h4>
+        <h4 className="pro-sidebar-title">Recent Blogs </h4>
         <div className="sidebar-project-wrap mt-30">
           <div className="single-sidebar-blog">
             <div className="sidebar-blog-img">
@@ -30,10 +30,10 @@ const BlogSidebar = () => {
               </Link>
             </div>
             <div className="sidebar-blog-content">
-              <span>Photography</span>
+              <span>S23 Ultra</span>
               <h4>
                 <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                  T- Shart And Jeans
+                  Samsung
                 </Link>
               </h4>
             </div>
@@ -50,10 +50,10 @@ const BlogSidebar = () => {
               </Link>
             </div>
             <div className="sidebar-blog-content">
-              <span>Branding</span>
+              <span>IPhone 14 Pro Max</span>
               <h4>
                 <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                  T- Shart And Jeans
+                  Apple
                 </Link>
               </h4>
             </div>
@@ -70,10 +70,10 @@ const BlogSidebar = () => {
               </Link>
             </div>
             <div className="sidebar-blog-content">
-              <span>Design</span>
+              <span>Huawei P60</span>
               <h4>
                 <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                  T- Shart And Jeans
+                  Huawei
                 </Link>
               </h4>
             </div>
@@ -90,84 +90,42 @@ const BlogSidebar = () => {
               </Link>
             </div>
             <div className="sidebar-blog-content">
-              <span>Photography</span>
+              <span>Nokia</span>
               <h4>
                 <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                  T- Shart And Jeans
+                  Nokia
                 </Link>
               </h4>
             </div>
           </div>
         </div>
       </div>
-      <div className="sidebar-widget mt-35">
-        <h4 className="pro-sidebar-title">Categories</h4>
-        <div className="sidebar-widget-list sidebar-widget-list--blog mt-20">
-          <ul>
-            <li>
-              <div className="sidebar-widget-list-left">
-                <input type="checkbox" defaultValue />{" "}
-                <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                  Women <span>4</span>{" "}
-                </Link>
-                <span className="checkmark" />
-              </div>
-            </li>
-            <li>
-              <div className="sidebar-widget-list-left">
-                <input type="checkbox" defaultValue />{" "}
-                <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                  Men <span>4</span>{" "}
-                </Link>
-                <span className="checkmark" />
-              </div>
-            </li>
-            <li>
-              <div className="sidebar-widget-list-left">
-                <input type="checkbox" defaultValue />{" "}
-                <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                  Bags <span>4</span>{" "}
-                </Link>
-                <span className="checkmark" />
-              </div>
-            </li>
-            <li>
-              <div className="sidebar-widget-list-left">
-                <input type="checkbox" defaultValue />{" "}
-                <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                  Accessories <span>4</span>{" "}
-                </Link>
-                <span className="checkmark" />
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
+      
       <div className="sidebar-widget mt-50">
         <h4 className="pro-sidebar-title">Tag </h4>
         <div className="sidebar-widget-tag mt-25">
           <ul>
             <li>
               <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                Clothing
+                Samsung
               </Link>
             </li>
             <li>
               <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                Accessories
+                IPhone
               </Link>
             </li>
             <li>
               <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                For Men
+                Huawei
               </Link>
             </li>
             <li>
-              <Link to={process.env.PUBLIC_URL + "/blog-standard"}>Women</Link>
+              <Link to={process.env.PUBLIC_URL + "/blog-standard"}>Technology</Link>
             </li>
             <li>
               <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                Fashion
+                Gadgets
               </Link>
             </li>
           </ul>

@@ -85,17 +85,17 @@ const BlogPost = () => {
           <ul>
             <li>
               <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                lifestyle ,
+                Gadgets ,
               </Link>
             </li>
             <li>
               <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                interior ,
+                Mobile ,
               </Link>
             </li>
             <li>
               <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
-                outdoor
+                Technology
               </Link>
             </li>
           </ul>
