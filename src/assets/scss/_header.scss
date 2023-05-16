@@ -16,7 +16,9 @@
     }
   }
 }
-
+.nav-cont{
+  background-color: #531516;
+}
 .sticky-bar.stick {
   position: fixed;
   z-index: 999;
@@ -29,7 +31,7 @@
   animation: 700ms ease-in-out 0s normal none 1 running fadeInDown;
 
   border-bottom: 0 solid #4a90e2;
-  background-color: #fff;
+  background-color: #531516;
   box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.06);
 
   .center-menu-logo {
@@ -187,7 +189,7 @@
               text-align: left;
               text-transform: capitalize;
 
-              color: #333;
+              color: #ffffff;
               &:hover {
                 color: $theme-color;
               }
@@ -258,7 +260,7 @@
 
                   text-transform: uppercase;
 
-                  color: #242424;
+                  color: #ffffff;
                   &::before {
                     display: none;
                   }
@@ -284,7 +286,7 @@
                   text-align: left;
                   text-transform: capitalize;
 
-                  color: #333;
+                  color: #ffffff;
                   &:hover {
                     color: $theme-color;
                   }
@@ -966,6 +968,7 @@
 
 .header-top-area {
   border-bottom: 1px solid #d5d4d4;
+  background-color: #131921;
   .header-top-wap {
     display: flex;
     align-items: center;
@@ -993,9 +996,9 @@
 
     letter-spacing: 0.8px;
 
-    color: #555252;
+    color: #FFFFFF;
     span {
-      color: #ff1c1c;
+      color: #ffe9c7;
     }
     @media #{$xs-layout} {
       text-align: center;
@@ -1050,7 +1053,7 @@
       cursor: pointer;
       letter-spacing: 0.8px;
 
-      color: #555252;
+      color: #FFFFFF;
       @media #{$xs-layout} {
         line-height: 35px;
       }
@@ -1063,7 +1066,7 @@
         position: relative;
         top: 2px;
 
-        color: #555252;
+        color: #FFFFFF;
       }
     }
     .lang-car-dropdown {
@@ -1108,7 +1111,7 @@
 
       letter-spacing: 0.8px;
 
-      color: #555252;
+      color: #ffffff;
     }
     &:hover {
       & > a,

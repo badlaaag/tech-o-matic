@@ -33,6 +33,7 @@ const HeaderOne = ({
 
   return (
     <header className={clsx("header-area clearfix", headerBgClass, headerPositionClass)}>
+    <div className="nav-cont">
       <div
         className={clsx(
           "header-top-area", 
@@ -72,6 +73,7 @@ const HeaderOne = ({
         {/* mobile menu */}
         <MobileMenu />
       </div>
+    </div>
     </header>
   );
 };
