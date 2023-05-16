@@ -175,7 +175,7 @@ ul {
 }
 
 a:hover {
-  color: $theme-color;
+  color: #ffe9c7!important;
 }
 
 /*************************
@@ -1611,7 +1611,7 @@ textarea:focus {
   border: none;
   border-radius: 50px;
   background: none;
-  background-color: $theme-color;
+  background-color: #131921!important;
   // &.show {
   //   visibility: visible;
 
@@ -1740,7 +1740,7 @@ textarea:focus {
 
       width: 0;
 
-      background: $theme-color;
+      background: #131921!important;
     }
     &:hover::after {
       right: auto;
