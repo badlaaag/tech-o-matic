@@ -9,7 +9,7 @@ const BannerOne = ({ spaceTopClass, spaceBottomClass }) => {
       <div className="container">
         <div className="row">
           {bannerData?.map((single, key) => (
-            <div className="col-lg-4 col-md-4" key={key}>
+            <div className="col-lg-12 col-md-4" key={key}>
               <BannerOneSingle
                 data={single}
                 spaceBottomClass="mb-30"

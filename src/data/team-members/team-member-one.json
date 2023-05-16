@@ -3,7 +3,7 @@
     "id": "1",
     "image": "/assets/img/team/team-1.jpg",
     "fbLink": "//www.facebook.com",
-    "twitterLink": "//www.twitter.com",
+    "YoutubeLink": "//www.youtube.com",
     "instagramLink": "//www.instagram.com",
     "name": "Vins Alejandria",
     "position": "Developer"
@@ -13,7 +13,7 @@
     "id": "3",
     "image": "/assets/img/team/team-2.jpg",
     "fbLink": "//www.facebook.com",
-    "twitterLink": "//www.twitter.com",
+    "YoutubeLink": "//www.youtube.com",
     "instagramLink": "//www.instagram.com",
     "name": "Gerbe Ace Lubao",
     "position": "Developer"
