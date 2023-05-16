@@ -97,7 +97,7 @@ const ProductDescriptionInfo = ({
             </div>
           </div>
           <div className="pro-details-size">
-            <span>Size</span>
+            {/* <span>Size</span> */}
             <div className="pro-details-size-content">
               {product.variation &&
                 product.variation.map(single => {
@@ -122,7 +122,7 @@ const ProductDescriptionInfo = ({
                                 setQuantityCount(1);
                               }}
                             />
-                            <span className="size-name">{singleSize.name}</span>
+                            {/* <span className="size-name">{singleSize.name}</span> */}
                           </label>
                         );
                       })

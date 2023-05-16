@@ -239,7 +239,7 @@ const Cart = () => {
                           <div className="tax-select">
                             <label>* Country</label>
                             <select className="email s-email s-wid">
-                              <option>Bangladesh</option>
+                              <option>Philipines</option>
                               <option>Albania</option>
                               <option>Åland Islands</option>
                               <option>Afghanistan</option>
@@ -249,7 +249,7 @@ const Cart = () => {
                           <div className="tax-select">
                             <label>* Region / State</label>
                             <select className="email s-email s-wid">
-                              <option>Bangladesh</option>
+                              <option>Philipines</option>
                               <option>Albania</option>
                               <option>Åland Islands</option>
                               <option>Afghanistan</option>
@@ -323,7 +323,7 @@ const Cart = () => {
                     </div>
                     <div className="item-empty-area__text">
                       No items found in cart <br />{" "}
-                      <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      <Link to={process.env.PUBLIC_URL + "/shop"}>
                         Shop Now
                       </Link>
                     </div>

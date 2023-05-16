@@ -14,41 +14,41 @@
     "variation": [
       {
         "color": "white",
-        "image": "/assets/img/product/phones/S23_Ultra_black.png",
+        "image": "/assets/img/product/phones/S3_Ultra_black.png",
         "size": [
           {
             "name": "x",
-            "stock": 3
+            "stock": 93
           },
           {
             "name": "m",
-            "stock": 2
+            "stock": 92
           },
           {
             "name": "xl",
-            "stock": 5
+            "stock": 95
           }
         ]
       },
       {
         "color": "black",
-        "image": "/assets/img/product/phones/S23_Ultra_black.png",
+        "image": "/assets/img/product/phones/S3_Ultra_blue.png",
         "size": [
           {
             "name": "x",
-            "stock": 4
+            "stock": 94
           },
           {
             "name": "m",
-            "stock": 7
+            "stock": 97
           },
           {
             "name": "xl",
-            "stock": 9
+            "stock": 99
           },
           {
             "name": "xxl",
-            "stock": 1
+            "stock": 91
           }
         ]
       },
@@ -58,25 +58,25 @@
         "size": [
           {
             "name": "x",
-            "stock": 1
+            "stock": 91
           },
           {
             "name": "m",
-            "stock": 2
+            "stock": 92
           },
           {
             "name": "xl",
-            "stock": 4
+            "stock": 9
           },
           {
             "name": "xxl",
-            "stock": 0
+            "stock": 90
           }
         ]
       }
     ],
     "image": [
-      "/assets/img/product/phones/S23_Ultra_black.png",
+      "/assets/img/product/phones/S3_Ultra_blue.png",
       "/assets/img/product/phones/S23_Ultra_black.png",
       "/assets/img/product/phones/S23_Ultra_black.png",
       "/assets/img/product/phones/S23_Ultra_black.png",
@@ -1276,7 +1276,7 @@
     "new": false,
     "rating": 4,
     "saleCount": 54,
-    "category": ["fashion", "kids"],
+    "category": ["sales", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1361,7 +1361,7 @@
     "new": false,
     "rating": 3,
     "saleCount": 12,
-    "category": ["fashion", "kids"],
+    "category": ["sales", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1448,7 +1448,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 36,
-    "category": ["fashion", "kids"],
+    "category": ["sales", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1533,7 +1533,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["fashion", "kids"],
+    "category": ["sales", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {

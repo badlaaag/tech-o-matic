@@ -58,11 +58,11 @@ const Checkout = () => {
                           <label>Country</label>
                           <select>
                             <option>Select a country</option>
-                            <option>Azerbaijan</option>
+                            <option>Philipines</option>
                             <option>Bahamas</option>
                             <option>Bahrain</option>
                             <option>Bangladesh</option>
-                            <option>Barbados</option>
+                            
                           </select>
                         </div>
                       </div>
@@ -211,7 +211,7 @@ const Checkout = () => {
                     </div>
                     <div className="item-empty-area__text">
                       No items found in cart to checkout <br />{" "}
-                      <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      <Link to={process.env.PUBLIC_URL + "/shop"}>
                         Shop Now
                       </Link>
                     </div>
