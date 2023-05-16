@@ -9,7 +9,7 @@ const NewProductGrid = ({ category, limit }) => {
       <div className="container-fluid">
         <SectionTitleTwo
           titleText="New Arrival"
-          subTitleText="Lorem ipsum dolor sit amet conse ctetu."
+          subTitleText="test"
           positionClass="text-center"
           spaceClass="mb-60"
         />
