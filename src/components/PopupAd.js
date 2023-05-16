@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { Link, Route } from "react-router-dom";
+import LoginRegister from "../pages/other/LoginRegister";
 
 const PopupAd = () => {
   const [isOpen, setIsOpen] = useState(true);
@@ -25,9 +27,10 @@ const PopupAd = () => {
             <button className="close-btn" onClick={handleClose}>
               X
             </button>
-            <h2 className="popup-title">Popup Advertisement</h2>
-            <p className="popup-text">VINS BENCH MODEL</p>
-            <div className="popup-video"></div>
+           
+            <h2 className="popup-title">Big Discount Now!</h2>
+            <img src="assets/img//bg/ads.jpg" className="popup-text"></img>
+           
           </div>
         </div>
       )}

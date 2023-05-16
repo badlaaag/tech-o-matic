@@ -1269,14 +1269,14 @@
   {
     "id": "88",
     "sku": "asdf210",
-    "name": "Lorem ipsum kids one",
+    "name": "Lorem ipsu",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
     "new": false,
     "rating": 4,
     "saleCount": 54,
-    "category": ["sales", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1355,13 +1355,13 @@
   {
     "id": "89",
     "sku": "asdf211",
-    "name": "Lorem ipsum kids two",
+    "name": "Lorem ipsu",
     "price": 18.5,
     "discount": 15,
     "new": false,
     "rating": 3,
     "saleCount": 12,
-    "category": ["sales", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1441,14 +1441,14 @@
   {
     "id": "90",
     "sku": "asdf212",
-    "name": "Lorem ipsum kids three",
+    "name": "Lorem ipsum ",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 36,
-    "category": ["sales", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1527,13 +1527,13 @@
   {
     "id": "91",
     "sku": "asdf213",
-    "name": "Lorem ipsum kids four",
+    "name": "Lorem ipsum",
     "price": 15.5,
     "discount": 0,
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["sales", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1612,13 +1612,13 @@
   {
     "id": "92",
     "sku": "asdf214",
-    "name": "Lorem ipsum kids five",
+    "name": "Lorem ipsum",
     "price": 25.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["fashion", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1697,14 +1697,14 @@
   {
     "id": "93",
     "sku": "asdf215",
-    "name": "Lorem ipsum kids six",
+    "name": "Lorem ipsu",
     "price": 19.85,
     "discount": 0,
     "offerEnd": "October 17, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 65,
-    "category": ["fashion", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1783,13 +1783,13 @@
   {
     "id": "94",
     "sku": "asdf216",
-    "name": "Lorem ipsum kids seven",
+    "name": "Lorem ipsum ",
     "price": 55.5,
     "discount": 40,
     "new": true,
     "rating": 5,
     "saleCount": 55,
-    "category": ["fashion", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -1868,14 +1868,14 @@
   {
     "id": "95",
     "sku": "asdf217",
-    "name": "Lorem ipsum kids eight",
+    "name": "Lorem ipsum ",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
     "new": false,
     "rating": 5,
     "saleCount": 83,
-    "category": ["fashion", "kids"],
+    "category": ["sales"],
     "tag": ["fashion", "kids"],
     "stock": 0,
     "image": [
