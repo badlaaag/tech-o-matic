@@ -33,11 +33,10 @@ const ProductDescriptionTab = ({ spaceBottomClass, productFullDesc }) => {
                       <span>Dimensions</span>10 x 10 x 15 cm{" "}
                     </li>
                     <li>
-                      <span>Materials</span> 60% cotton, 40% polyester
+                      <span>Materials</span> 
                     </li>
                     <li>
-                      <span>Other Info</span> American heirloom jean shorts pug
-                      seitan letterpress
+                      <span>Other Info</span> 
                     </li>
                   </ul>
                 </div>

@@ -16,7 +16,7 @@ const BannerOneSingle = ({ data, spaceBottomClass }) => {
           <Link to={process.env.PUBLIC_URL + data.link}>
             <i className="fa fa-long-arrow-right" />
           </Link>
-  </div>*/}
+          </div>*/}
       </div>
   );
 };
