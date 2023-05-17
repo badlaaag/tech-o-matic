@@ -12,14 +12,14 @@ const ShopTag = ({ tags, getSortParams }) => {
             {tags.map((tag, key) => {
               return (
                 <li key={key}>
-                  <button
-                    onClick={e => {
-                      getSortParams("tag", tag);
-                      setActiveSort(e);
-                    }}
-                  >
-                    {tag}
-                  </button>
+                    <button
+                      onClick={e => {
+                        getSortParams("tag", tag);
+                        setActiveSort(e);
+                      }}
+                    >
+                      {tag}
+                    </button>
                 </li>
               );
             })}
