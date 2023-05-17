@@ -47,12 +47,7 @@ const Checkout = () => {
                           <input type="text" />
                         </div>
                       </div>
-                      <div className="col-lg-12">
-                        <div className="billing-info mb-20">
-                          <label>Company Name</label>
-                          <input type="text" />
-                        </div>
-                      </div>
+                      
                       <div className="col-lg-12">
                         <div className="billing-select mb-20">
                           <label>Country</label>

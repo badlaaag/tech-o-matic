@@ -11,38 +11,7 @@
     "saleCount": 54,
     "category": ["Samsung"],
     "tag": ["Mobile","Android"],
-    "variation": [
-      {
-        "color": "black",
-        "image": "/assets/img/product/phones/S3_Ultra_black.png",
-        "size": [
-          {
-            "name": "x",
-            "stock": 10
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "image": "/assets/img/product/phones/S3_Ultra_blue.png",
-        "size": [
-          {
-            "name": "x",
-            "stock": 94
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "//assets/img/product/phones/S23_Ultra_lavender.png",
-        "size": [
-          {
-            "name": "x",
-            "stock": 91
-          }
-        ]
-      }
-    ],
+    "stock":15,
     "image": [
       "/assets/img/product/phones/S3_Ultra_blue.png",
       "/assets/img/product/phones/S23_Ultra_black.png",
@@ -56,7 +25,7 @@
   {
     "id": "2",
     "sku": "asdf124",
-    "name": "Lorem ipsum ",
+    "name": "Samsung S9+",
     "price": 18.5,
     "discount": 15,
     "new": false,
@@ -64,44 +33,13 @@
     "saleCount": 12,
     "category": ["Samsung"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      }
-    ],
+    "stock":15,
     "image": [
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/phones/s9+.jpg",
+      "/assets/img/product/phones/s9+side.jpg",
+      "/assets/img/product/phones/s9+side.jpg",
+      "/assets/img/product/phones/s9+side.jpg",
+      "/assets/img/product/phones/s9+side.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -110,7 +48,7 @@
   {
     "id": "3",
     "sku": "asdf125",
-    "name": "Lorem ipsum ",
+    "name": "Samsung A51",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
@@ -121,11 +59,11 @@
     "tag": [""],
     "stock": 1,
     "image": [
-      "/assets/img/product/fashion/3.jpg",
-      "/assets/img/product/fashion/1.jpg",
-      "/assets/img/product/fashion/6.jpg",
-      "/assets/img/product/fashion/8.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/phones/a51.jpg",
+      "/assets/img/product/phones/a51f.jpg",
+      "/assets/img/product/phones/a51side.jpg",
+      "/assets/img/product/phones/a51.jpg",
+      "/assets/img/product/phones/a51.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -133,7 +71,7 @@
   {
     "id": "4",
     "sku": "asdf126",
-    "name": "Lorem ipsum ",
+    "name": "Samsung A53 5G",
     "price": 15.5,
     "discount": 0,
     "new": true,
@@ -141,44 +79,13 @@
     "saleCount": 20,
     "category": ["Samsung"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      }
-    ],
+    "stock":10,
     "image": [
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/phones/a535g.jpg",
+      "/assets/img/product/phones/a53f.jpg",
+      "/assets/img/product/phones/a535g.jpg",
+      "/assets/img/product/phones/a535g.jpg",
+      "/assets/img/product/phones/a535g.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -186,7 +93,7 @@
   {
     "id": "5",
     "sku": "asdf127",
-    "name": "Lorem ipsum",
+    "name": "Samsung Note 10",
     "price": 25.5,
     "discount": 10,
     "new": true,
@@ -194,44 +101,13 @@
     "saleCount": 25,
     "category": ["Samsung"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      }
-    ],
+    "stock":15,
     "image": [
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/phones/note10.jpg",
+      "/assets/img/product/phones/note10black.jpg",
+      "/assets/img/product/phones/note10f.jpg",
+      "/assets/img/product/phones/note10p.jpg",
+      "/assets/img/product/phones/note10.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -248,38 +124,7 @@
     "saleCount": 65,
     "category": ["IPhone"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "white",
-        "image": "/assets/img/product/phones/iphone_14_pro_max.png",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/8.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/3.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 1
-          }
-        ]
-      }
-    ],
+    "stock":20,
     "image": [
       "/assets/img/product/phones/iphone_14_pro_max.png",
       "/assets/img/product/phones/iphone_14_pro_max_black.png",
@@ -293,7 +138,7 @@
   {
     "id": "7",
     "sku": "asdf129",
-    "name": "Lorem ipsum ",
+    "name": "IPhone14 Plus ",
     "price": 55.5,
     "discount": 40,
     "new": true,
@@ -301,44 +146,13 @@
     "saleCount": 55,
     "category": ["IPhone"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      }
-    ],
+    "stock": 0,
     "image": [
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/phones/i14plusred.jpg",
+      "/assets/img/product/phones/i14plusred.jpg",
+      "/assets/img/product/phones/i14plusgray.jpg",
+      "/assets/img/product/phones/i14plusgray.jpg",
+      "/assets/img/product/phones/i14plusred.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -346,7 +160,7 @@
   {
     "id": "8",
     "sku": "asdf130",
-    "name": "Lorem ipsum fashion jacket",
+    "name": "Samsung Note 20",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
@@ -357,11 +171,11 @@
     "tag": [""],
     "stock": 0,
     "image": [
-      "/assets/img/product/fashion/8.jpg",
-      "/assets/img/product/fashion/6.jpg",
-      "/assets/img/product/fashion/3.jpg",
-      "/assets/img/product/fashion/1.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/phones/note20f.jpg",
+      "/assets/img/product/phones/note20.jpg",
+      "/assets/img/product/phones/note20black.jpg",
+      "/assets/img/product/phones/note20f.jpg",
+      "/assets/img/product/phones/note20f.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -369,7 +183,7 @@
   {
     "id": "9",
     "sku": "asdf131",
-    "name": "Lorem ipsum ",
+    "name": "IPhone 13  ",
     "price": 35.6,
     "discount": 0,
     "new": false,
@@ -380,11 +194,11 @@
     "stock": 5,
     "affiliateLink": "//www.amazon.com",
     "image": [
-      "/assets/img/product/fashion/9.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg"
+      "/assets/img/product/phones/i13red.jpg",
+      "/assets/img/product/phones/i13blue.jpg",
+      "/assets/img/product/phones/i13.jpg",
+      "/assets/img/product/phones/i13red.jpg",
+      "/assets/img/product/phones/i13red.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -392,7 +206,7 @@
   {
     "id": "10",
     "sku": "asdf132",
-    "name": "Lorem ipsum ",
+    "name": "IPhone12 Mini",
     "price": 15.6,
     "discount": 0,
     "new": false,
@@ -402,11 +216,11 @@
     "tag": [""],
     "stock": 15,
     "image": [
-      "/assets/img/product/electronics/1.jpg",
-      "/assets/img/product/electronics/2.jpg",
-      "/assets/img/product/electronics/3.jpg",
-      "/assets/img/product/electronics/4.jpg",
-      "/assets/img/product/electronics/5.jpg"
+      "/assets/img/product/phones/i12mini.jpg",
+      "/assets/img/product/phones/i12minired.jpg",
+      "/assets/img/product/phones/i12minipurple.jpg",
+      "/assets/img/product/phones/i12mini.jpg",
+      "/assets/img/product/phones/i12mini.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -414,7 +228,7 @@
   {
     "id": "11",
     "sku": "asdf133",
-    "name": "Lorem ipsum ",
+    "name": "IPhone SE",
     "price": 10.6,
     "discount": 10,
     "new": true,
@@ -424,11 +238,11 @@
     "tag": [""],
     "stock": 25,
     "image": [
-      "/assets/img/product/electronics/2.jpg",
-      "/assets/img/product/electronics/3.jpg",
-      "/assets/img/product/electronics/4.jpg",
-      "/assets/img/product/electronics/5.jpg",
-      "/assets/img/product/electronics/6.jpg"
+      "/assets/img/product/phones/ise.jpg",
+      "/assets/img/product/electronics/iseblack",
+      "/assets/img/product/electronics/ise.jpg",
+      "/assets/img/product/electronics/ise.jpg",
+      "/assets/img/product/electronics/ise.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -436,7 +250,7 @@
   {
     "id": "12",
     "sku": "asdf134",
-    "name": "Lorem ipsum ",
+    "name": "IPhone 11",
     "price": 12.5,
     "discount": 20,
     "new": true,
@@ -446,11 +260,11 @@
     "tag": [""],
     "stock": 20,
     "image": [
-      "/assets/img/product/electronics/3.jpg",
-      "/assets/img/product/electronics/4.jpg",
-      "/assets/img/product/electronics/5.jpg",
-      "/assets/img/product/electronics/6.jpg",
-      "/assets/img/product/electronics/7.jpg"
+      "/assets/img/product/phones/i11yellow.jpg",
+      "/assets/img/product/phones/i11gray.jpg",
+      "/assets/img/product/phones/i11white.jpg",
+      "/assets/img/product/phones/i11mint.jpg",
+      "/assets/img/product/phones/i11.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -458,7 +272,7 @@
   {
     "id": "13",
     "sku": "asdf135",
-    "name": "Lorem ipsum ",
+    "name": "IPhone14 Pro",
     "price": 14.5,
     "discount": 30,
     "new": false,
@@ -468,11 +282,11 @@
     "tag": [""],
     "stock": 40,
     "image": [
-      "/assets/img/product/electronics/4.jpg",
-      "/assets/img/product/electronics/5.jpg",
-      "/assets/img/product/electronics/6.jpg",
-      "/assets/img/product/electronics/7.jpg",
-      "/assets/img/product/electronics/8.jpg"
+      "/assets/img/product/phones/i14pro.jpg",
+      "/assets/img/product/phones/i14prof.jpg",
+      "/assets/img/product/phones/i14prowhite.jpg",
+      "/assets/img/product/phones/i14pro.jpg",
+      "/assets/img/product/phones/i14pro.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -481,7 +295,7 @@
   {
     "id": "15",
     "sku": "asdf137",
-    "name": "Lorem ipsum ",
+    "name": "Huawei Mate 10",
     "price": 12.5,
     "discount": 0,
     "new": false,
@@ -491,11 +305,11 @@
     "tag": [""],
     "stock": 5,
     "image": [
-      "/assets/img/product/electronics/6.jpg",
-      "/assets/img/product/electronics/7.jpg",
-      "/assets/img/product/electronics/8.jpg",
-      "/assets/img/product/electronics/1.jpg",
-      "/assets/img/product/electronics/2.jpg"
+      "/assets/img/product/phones/mate10.jpg",
+      "/assets/img/product/phones/mate10b.jpg",
+      "/assets/img/product/phones/mate10s.jpg",
+      "/assets/img/product/phones/mate10.jpg",
+      "/assets/img/product/phones/mate10.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -503,7 +317,7 @@
   {
     "id": "16",
     "sku": "asdf138",
-    "name": "Lorem ipsum ",
+    "name": "Huawei Mate 20",
     "price": 22.5,
     "discount": 20,
     "new": true,
@@ -513,11 +327,11 @@
     "tag": [""],
     "stock": 7,
     "image": [
-      "/assets/img/product/electronics/7.jpg",
-      "/assets/img/product/electronics/8.jpg",
-      "/assets/img/product/electronics/1.jpg",
-      "/assets/img/product/electronics/2.jpg",
-      "/assets/img/product/electronics/3.jpg"
+      "/assets/img/product/phones/mate20.jpg",
+      "/assets/img/product/phones/mate20d.jpg",
+      "/assets/img/product/phones/mate20b.jpg",
+      "/assets/img/product/phones/mate20.jpg",
+      "/assets/img/product/phones/mate20.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."

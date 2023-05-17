@@ -8,7 +8,7 @@ const BlogFeaturedSingle = ({ singlePost }) => {
         <Link to={process.env.PUBLIC_URL + singlePost.url}>
           <img src={process.env.PUBLIC_URL + singlePost.image} alt="" />
         </Link>
-        <div className="blog-category-names">
+        {/* <div className="blog-category-names">
           {singlePost.category.map((singleCategory, key) => {
             return (
               <span className="purple" key={key}>
@@ -16,7 +16,7 @@ const BlogFeaturedSingle = ({ singlePost }) => {
               </span>
             );
           })}
-        </div>
+        </div> */}
       </div>
       <div className="blog-content-wrap">
         <div className="blog-content text-center">

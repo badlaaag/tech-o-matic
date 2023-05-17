@@ -27,10 +27,10 @@ const PopupAd = () => {
             <button className="close-btn" onClick={handleClose}>
               X
             </button>
-           
+           <Link  to={ process.env.PUBLIC_URL +"/login-register"}>
             <h2 className="popup-title">Big Discount Now!</h2>
             <img src="assets/img//bg/ads.jpg" className="popup-text"></img>
-           
+            </Link>
           </div>
         </div>
       )}

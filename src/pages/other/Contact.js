@@ -25,7 +25,18 @@ const Contact = () => {
         <div className="contact-area pt-100 pb-100">
           <div className="container">
             <div className="contact-map mb-10">
-              <GoogleMap lat={14.7429764} lng={121.1332085155} />
+              {/* <GoogleMap lat={14.7429764} lng={121.1332085155} /> */}
+              {/* <div className="col-12"> */}
+          <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3858.6877769158345!2d121.13563731543258!3d14.73023597783421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397bb18144bf653%3A0x34e13592dd4050d0!2sRodriguez%20Hwy%2C%20Rodriguez%2C%20Rizal!5e0!3m2!1sen!2sph!4v1679020338140!5m2!1sen!2sph"
+           width="600"
+           height="450" 
+           className="border-0 w-100" 
+           allowfullscreen="" 
+           loading="lazy" 
+           referrerpolicy="no-referrer-when-downgrade">
+           </iframe>
+          {/* </div> */}
             </div>
             <div className="custom-row-2">
               <div className="col-12 col-lg-4 col-md-5">
