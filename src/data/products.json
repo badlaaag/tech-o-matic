@@ -192,7 +192,6 @@
     "category": ["IPhone"],
     "tag": [""],
     "stock": 5,
-    "affiliateLink": "//www.amazon.com",
     "image": [
       "/assets/img/product/phones/i13red.jpg",
       "/assets/img/product/phones/i13blue.jpg",
@@ -339,7 +338,7 @@
   {
     "id": "17",
     "sku": "asdf139",
-    "name": "Lorem ipsum ",
+    "name": "Huawei mate40",
     "price": 32.5,
     "discount": 10,
     "new": true,
@@ -349,11 +348,11 @@
     "tag": [""],
     "stock": 6,
     "image": [
-      "/assets/img/product/electronics/8.jpg",
-      "/assets/img/product/electronics/1.jpg",
-      "/assets/img/product/electronics/2.jpg",
-      "/assets/img/product/electronics/3.jpg",
-      "/assets/img/product/electronics/4.jpg"
+      "/assets/img/product/phones/mate40.jpg",
+      "/assets/img/product/phones/mate40b.jpg",
+      "/assets/img/product/phones/mate40d.jpg",
+      "/assets/img/product/phones/mate40d.jpg",
+      "/assets/img/product/phones/mate40.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -361,7 +360,7 @@
   {
     "id": "18",
     "sku": "asdf140",
-    "name": "Lorem ipsum ",
+    "name": "Huawei Mate 50 Pro",
     "price": 15.6,
     "discount": 0,
     "new": false,
@@ -371,11 +370,11 @@
     "tag": [""],
     "stock": 15,
     "image": [
-      "/assets/img/product/furnitures/1.jpg",
-      "/assets/img/product/furnitures/2.jpg",
-      "/assets/img/product/furnitures/3.jpg",
-      "/assets/img/product/furnitures/4.jpg",
-      "/assets/img/product/furnitures/5.jpg"
+      "/assets/img/product/phones/mate50pro.jpg",
+      "/assets/img/product/phones/mate50f.jpg",
+      "/assets/img/product/phones/mate50b.jpg",
+      "/assets/img/product/phones/mate50pro.jpg",
+      "/assets/img/product/phones/mate50pro.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -383,7 +382,7 @@
   {
     "id": "19",
     "sku": "asdf141",
-    "name": "Lorem ipsum ",
+    "name": "Huawei Nova 10 Pro",
     "price": 10.6,
     "discount": 10,
     "new": true,
@@ -393,11 +392,11 @@
     "tag": [""],
     "stock": 25,
     "image": [
-      "/assets/img/product/furnitures/2.jpg",
-      "/assets/img/product/furnitures/3.jpg",
-      "/assets/img/product/furnitures/4.jpg",
-      "/assets/img/product/furnitures/5.jpg",
-      "/assets/img/product/furnitures/6.jpg"
+      "/assets/img/product/phones/nova10pro.jpg",
+      "/assets/img/product/phones/nova10prob.jpg",
+      "/assets/img/product/phones/nova10prof.jpg",
+      "/assets/img/product/phones/nova10prof.jpg",
+      "/assets/img/product/phones/nova10pro.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -405,7 +404,7 @@
   {
     "id": "20",
     "sku": "asdf142",
-    "name": "Lorem ipsum ",
+    "name": "Huawei P30 Pro",
     "price": 12.5,
     "discount": 20,
     "new": true,
@@ -415,11 +414,11 @@
     "tag": [""],
     "stock": 20,
     "image": [
-      "/assets/img/product/furnitures/3.jpg",
-      "/assets/img/product/furnitures/4.jpg",
-      "/assets/img/product/furnitures/5.jpg",
-      "/assets/img/product/furnitures/6.jpg",
-      "/assets/img/product/furnitures/7.jpg"
+      "/assets/img/product/phones/p30pro.jpg",
+      "/assets/img/product/phones/p30prob.jpg",
+      "/assets/img/product/phones/p30s.jpg",
+      "/assets/img/product/phones/p30pro.jpg",
+      "/assets/img/product/phones/p30pro.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -427,7 +426,7 @@
   {
     "id": "21",
     "sku": "asdf143",
-    "name": "Lorem ipsum ",
+    "name": "Huawei Mate P40 Pro",
     "price": 14.5,
     "discount": 30,
     "new": false,
@@ -437,11 +436,11 @@
     "tag": [""],
     "stock": 40,
     "image": [
-      "/assets/img/product/furnitures/4.jpg",
-      "/assets/img/product/furnitures/5.jpg",
-      "/assets/img/product/furnitures/6.jpg",
-      "/assets/img/product/furnitures/7.jpg",
-      "/assets/img/product/furnitures/8.jpg"
+      "/assets/img/product/phones/p40pro.jpg",
+      "/assets/img/product/phones/p40f.jpg",
+      "/assets/img/product/phones/p40b.jpg",
+      "/assets/img/product/phones/p40f.jpg",
+      "/assets/img/product/phones/p40b.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
