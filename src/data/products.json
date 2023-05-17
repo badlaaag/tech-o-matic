@@ -900,38 +900,7 @@
     "saleCount": 54,
     "category": ["sales"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "white",
-        "image": "/assets/img/product/fashion/23.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/24.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/25.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 1
-          }
-        ]
-      }
-    ],
+    "stock":6,
     "image": [
       "/assets/img/product/fashion/23.jpg",
       "/assets/img/product/fashion/24.jpg",
@@ -953,38 +922,7 @@
     "saleCount": 12,
     "category": ["sales"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/24.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/25.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/26.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      }
-    ],
+    "stock":10,
     "image": [
       "/assets/img/product/fashion/24.jpg",
       "/assets/img/product/fashion/25.jpg",
@@ -1008,38 +946,7 @@
     "saleCount": 36,
     "category": ["sales"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "white",
-        "image": "/assets/img/product/fashion/25.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/26.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/27.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 1
-          }
-        ]
-      }
-    ],
+    "stock":10,
     "image": [
       "/assets/img/product/fashion/25.jpg",
       "/assets/img/product/fashion/26.jpg",
@@ -1061,38 +968,7 @@
     "saleCount": 20,
     "category": ["sales"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/26.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/27.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/28.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      }
-    ],
+    "stock":10,
     "image": [
       "/assets/img/product/fashion/26.jpg",
       "/assets/img/product/fashion/27.jpg",
@@ -1114,38 +990,7 @@
     "saleCount": 25,
     "category": ["sales"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/27.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/28.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/29.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      }
-    ],
+    "stock":10,
     "image": [
       "/assets/img/product/fashion/27.jpg",
       "/assets/img/product/fashion/28.jpg",
@@ -1168,38 +1013,7 @@
     "saleCount": 65,
     "category": ["sales"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "white",
-        "image": "/assets/img/product/fashion/28.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/29.jpg",
-        "size": [
-          {
-            
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/30.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 1
-          }
-        ]
-      }
-    ],
+    "stock":10,
     "image": [
       "/assets/img/product/fashion/28.jpg",
       "/assets/img/product/fashion/29.jpg",
@@ -1221,51 +1035,8 @@
     "saleCount": 55,
     "category": ["sales"],
     "tag": [""],
-    "variation": [
-      {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/29.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          }
-        ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/30.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 4
-          }
-        ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/23.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          },
-          {
-            "name": "m",
-            "stock": 7
-          },
-          {
-            "name": "xl",
-            "stock": 0
-          },
-          {
-            "name": "xxl",
-            "stock": 7
-          }
-        ]
-      }
-    ],
-    "image": [
+    "stock":10,
+    "image":[
       "/assets/img/product/fashion/29.jpg",
       "/assets/img/product/fashion/30.jpg",
       "/assets/img/product/fashion/23.jpg",
