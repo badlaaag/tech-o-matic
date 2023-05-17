@@ -6,9 +6,7 @@ import FeatureIcon from "../../wrappers/feature-icon/FeatureIcon";
 import TabProduct from "../../wrappers/product/TabProduct";
 import BlogFeatured from "../../wrappers/blog-featured/BlogFeatured";
 import PopupAd from "../../components/PopupAd";
-
-
-
+import Sound from "../../components/Playsound";
 
 const Home = () => {
   return (
@@ -17,7 +15,7 @@ const Home = () => {
         titleTemplate=" Home"
         description="Shop with us, get more value."
       />
-     
+
       <LayoutOne headerTop="visible"
         headerContainerClass="container-fluid"
         headerPaddingClass="header-padding-1"
@@ -35,6 +33,7 @@ const Home = () => {
         {/* blog featured */}
         <BlogFeatured spaceBottomClass="pb-55" />
         <PopupAd />
+        <Sound />
       </LayoutOne>
       
     </Fragment>
