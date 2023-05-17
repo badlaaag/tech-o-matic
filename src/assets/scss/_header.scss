@@ -1098,7 +1098,7 @@
             border: none;
             background: none;
             &:hover {
-              color: $theme-color;
+              color: #531516!important;
             }
           }
         }
@@ -1116,7 +1116,7 @@
     &:hover {
       & > a,
       span {
-        color: $theme-color;
+        color: #ffe9c7;
       }
 
       .lang-car-dropdown {
