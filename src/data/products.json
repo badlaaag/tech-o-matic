@@ -448,7 +448,7 @@
   {
     "id": "22",
     "sku": "asdf144",
-    "name": "Lorem ipsum ",
+    "name": "Goojoheadphones/goojodoq",
     "price": 22.5,
     "discount": 10,
     "new": true,
@@ -458,11 +458,11 @@
     "tag": [""],
     "stock": 45,
     "image": [
-      "/assets/img/product/furnitures/5.jpg",
-      "/assets/img/product/furnitures/6.jpg",
-      "/assets/img/product/furnitures/7.jpg",
-      "/assets/img/product/furnitures/8.jpg",
-      "/assets/img/product/furnitures/1.jpg"
+      "/assets/img/product/headphones/goojodoq.jpg",
+      "/assets/img/product/headphones/goojodoq2.jpg",
+      "/assets/img/product/headphones/goojodoq.jpg",
+      "/assets/img/product/headphones/goojodoq2.jpg",
+      "/assets/img/product/headphones/goojodoq.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -470,7 +470,7 @@
   {
     "id": "23",
     "sku": "asdf145",
-    "name": "Lorem ipsum ",
+    "name": "JBL 510 Bluetooth",
     "price": 12.5,
     "discount": 0,
     "new": false,
@@ -480,11 +480,11 @@
     "tag": [""],
     "stock": 5,
     "image": [
-      "/assets/img/product/furnitures/6.jpg",
-      "/assets/img/product/furnitures/7.jpg",
-      "/assets/img/product/furnitures/8.jpg",
-      "/assets/img/product/furnitures/1.jpg",
-      "/assets/img/product/furnitures/2.jpg"
+      "/assets/img/product/headphones/jbl510bt.jpg",
+      "/assets/img/product/headphones/jbl510bt1.jpg",
+      "/assets/img/product/headphones/jbl510bt.jpg",
+      "/assets/img/product/headphones/jbl510bt1.jpg",
+      "/assets/img/product/headphones/jbl510bt.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -492,7 +492,7 @@
   {
     "id": "24",
     "sku": "asdf146",
-    "name": "Lorem ipsum ",
+    "name": "Kvidio",
     "price": 22.5,
     "discount": 20,
     "new": true,
@@ -502,11 +502,11 @@
     "tag": [""],
     "stock": 7,
     "image": [
-      "/assets/img/product/furnitures/7.jpg",
-      "/assets/img/product/furnitures/8.jpg",
-      "/assets/img/product/furnitures/1.jpg",
-      "/assets/img/product/furnitures/2.jpg",
-      "/assets/img/product/furnitures/3.jpg"
+      "/assets/img/product/headphones/kvidio.jpg",
+      "/assets/img/product/headphones/kvidio2.jpg",
+      "/assets/img/product/headphones/kvidio.jpg",
+      "/assets/img/product/headphones/kvidio2.jpg",
+      "/assets/img/product/headphones/kvidio.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -514,7 +514,7 @@
   {
     "id": "25",
     "sku": "asdf147",
-    "name": "Lorem ipsum ",
+    "name": "Tuinyo Wireless",
     "price": 32.5,
     "discount": 10,
     "new": true,
@@ -524,11 +524,11 @@
     "tag": [""],
     "stock": 6,
     "image": [
-      "/assets/img/product/furnitures/8.jpg",
-      "/assets/img/product/furnitures/1.jpg",
-      "/assets/img/product/furnitures/2.jpg",
-      "/assets/img/product/furnitures/3.jpg",
-      "/assets/img/product/furnitures/4.jpg"
+      "/assets/img/product/headphones/tuinyowireless.jpg",
+      "/assets/img/product/headphones/tuinyowireless2.jpg",
+      "/assets/img/product/headphones/tuinyowireless.jpg",
+      "/assets/img/product/headphones/tuinyowireless2.jpg",
+      "/assets/img/product/headphones/tuinyowireless.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -536,7 +536,7 @@
   {
     "id": "26",
     "sku": "asdf148",
-    "name": "Lorem ipsum ",
+    "name": "Tribit Wireless",
     "price": 15.6,
     "discount": 0,
     "new": false,
@@ -546,11 +546,11 @@
     "tag": [""],
     "stock": 15,
     "image": [
-      "/assets/img/product/plants/1.jpg",
-      "/assets/img/product/plants/2.jpg",
-      "/assets/img/product/plants/3.jpg",
-      "/assets/img/product/plants/4.jpg",
-      "/assets/img/product/plants/5.jpg"
+      "/assets/img/product/headphones/tribitwireless.jpg",
+      "/assets/img/product/headphones/tribitwireless1.jpg",
+      "/assets/img/product/headphones/tribitwireless.jpg",
+      "/assets/img/product/headphones/tribitwireless1.jpg",
+      "/assets/img/product/headphones/tribitwireless.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -558,7 +558,7 @@
   {
     "id": "27",
     "sku": "asdf149",
-    "name": "Lorem ipsum ",
+    "name": "Tribit MoveBuds ",
     "price": 10.6,
     "discount": 10,
     "new": true,
@@ -568,11 +568,11 @@
     "tag": [""],
     "stock": 25,
     "image": [
-      "/assets/img/product/plants/2.jpg",
-      "/assets/img/product/plants/3.jpg",
-      "/assets/img/product/plants/4.jpg",
-      "/assets/img/product/plants/5.jpg",
-      "/assets/img/product/plants/6.jpg"
+      "/assets/img/product/headphones/tribitmovebuds.jpg",
+      "/assets/img/product/headphones/tribitmovebuds2.jpg",
+      "/assets/img/product/headphones/tribitmovebuds.jpg",
+      "/assets/img/product/headphones/tribitmovebuds2.jpg",
+      "/assets/img/product/headphones/tribitmovebuds.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -580,7 +580,7 @@
   {
     "id": "28",
     "sku": "asdf150",
-    "name": "Lorem ipsum ",
+    "name": "Musicozy",
     "price": 12.5,
     "discount": 20,
     "new": true,
@@ -590,11 +590,11 @@
     "tag": [""],
     "stock": 20,
     "image": [
-      "/assets/img/product/plants/3.jpg",
-      "/assets/img/product/plants/4.jpg",
-      "/assets/img/product/plants/5.jpg",
-      "/assets/img/product/plants/6.jpg",
-      "/assets/img/product/plants/7.jpg"
+      "/assets/img/product/headphones/musicozy.jpg",
+      "/assets/img/product/headphones/musicozy2.jpg",
+      "/assets/img/product/headphones/musicozy.jpg",
+      "/assets/img/product/headphones/musicozy2.jpg",
+      "/assets/img/product/headphones/musicozy.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
