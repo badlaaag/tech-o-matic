@@ -602,8 +602,8 @@
   {
     "id": "29",
     "sku": "asdf151",
-    "name": "Lorem ipsum ",
-    "price": 14.5,
+    "name": "Erkei Sehn Waterproof Wireless Speaker ",
+    "price": 39.98,
     "discount": 30,
     "new": false,
     "rating": 4,
@@ -612,11 +612,9 @@
     "tag": [""],
     "stock": 40,
     "image": [
-      "/assets/img/product/plants/4.jpg",
-      "/assets/img/product/plants/5.jpg",
-      "/assets/img/product/plants/6.jpg",
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg"
+      "/assets/img/product/speakers/Erkei Sehn Waterproof Wireless Speaker 1.jpg",
+      "/assets/img/product/speakers/Erkei Sehn Waterproof Wireless Speaker 2.jpg",
+      "/assets/img/product/speakers/Erkei Sehn Waterproof Wireless Speaker 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -624,8 +622,8 @@
   {
     "id": "30",
     "sku": "asdf152",
-    "name": "Lorem ipsum ",
-    "price": 22.5,
+    "name": "Ortizan Portable Bluetooth Speaker",
+    "price": 33.99,
     "discount": 10,
     "new": true,
     "rating": 5,
@@ -634,11 +632,9 @@
     "tag": [""],
     "stock": 45,
     "image": [
-      "/assets/img/product/plants/5.jpg",
-      "/assets/img/product/plants/6.jpg",
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg"
+      "/assets/img/product/speakers/Ortizan Portable Bluetooth Speaker 1.jpg",
+      "/assets/img/product/speakers/Ortizan Portable Bluetooth Speaker 2.jpg",
+      "/assets/img/product/speakers/Ortizan Portable Bluetooth Speaker 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -646,8 +642,8 @@
   {
     "id": "31",
     "sku": "asdf153",
-    "name": "Lorem ipsum ",
-    "price": 12.5,
+    "name": "Bose SoundLink Flex Bluetooth Portable Speaker",
+    "price": 149,
     "discount": 0,
     "new": false,
     "rating": 4,
@@ -656,11 +652,9 @@
     "tag": [""],
     "stock": 5,
     "image": [
-      "/assets/img/product/plants/6.jpg",
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg",
-      "/assets/img/product/plants/2.jpg"
+      "/assets/img/product/speakers/Bose SoundLink Flex Bluetooth Portable Speaker 1.jpg",
+      "/assets/img/product/speakers/Bose SoundLink Flex Bluetooth Portable Speaker 2.jpg",
+      "/assets/img/product/speakers/Bose SoundLink Flex Bluetooth Portable Speaker 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -668,8 +662,8 @@
   {
     "id": "32",
     "sku": "asdf154",
-    "name": "Lorem ipsum ",
-    "price": 22.5,
+    "name": "Ultimate Ears MEGABOOM 3 ",
+    "price": 198.78,
     "discount": 20,
     "new": true,
     "rating": 5,
@@ -678,11 +672,9 @@
     "tag": [""],
     "stock": 7,
     "image": [
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg",
-      "/assets/img/product/plants/2.jpg",
-      "/assets/img/product/plants/3.jpg"
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 1.jpg",
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 2.jpg",
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -690,8 +682,8 @@
   {
     "id": "33",
     "sku": "asdf155",
-    "name": "Lorem ipsum ",
-    "price": 32.5,
+    "name": "JBL CHARGE 5 - Portable Bluetooth Speaker ",
+    "price": 139.95,
     "discount": 10,
     "new": true,
     "rating": 4,
@@ -700,11 +692,10 @@
     "tag": [""],
     "stock": 6,
     "image": [
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg",
-      "/assets/img/product/plants/2.jpg",
-      "/assets/img/product/plants/3.jpg",
-      "/assets/img/product/plants/4.jpg"
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 1.jpg",
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 2.jpg",
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 3.jpg"
+    
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -712,8 +703,8 @@
   {
     "id": "34",
     "sku": "asdf156",
-    "name": "Lorem ipsum ",
-    "price": 15.6,
+    "name": "JBL Clip 3, Black - Waterproof ",
+    "price": 49.59,
     "discount": 0,
     "new": false,
     "rating": 4,
@@ -722,11 +713,31 @@
     "tag": [""],
     "stock": 15,
     "image": [
-      "/assets/img/product/fruits/1.jpg",
-      "/assets/img/product/fruits/2.jpg",
-      "/assets/img/product/fruits/3.jpg",
-      "/assets/img/product/fruits/4.jpg",
-      "/assets/img/product/fruits/5.jpg"
+      "/assets/img/product/speakers/JBL Clip 3, Black - Waterproof 1.jpg",
+      "/assets/img/product/speakers/JBL Clip 3, Black - Waterproof 2.jpg",
+      "/assets/img/product/speakers/JBL Clip 3, Black - Waterproof 3.jpg"
+      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "35",
+    "sku": "asdf156",
+    "name": "EWA A106 Portable Mini Bluetooth Speaker",
+    "price": 21.99,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["Speaker"],
+    "tag": [""],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/speakers/EWA A106 Portable Mini Bluetooth Speaker 1.jpg",
+      "/assets/img/product/speakers/EWA A106 Portable Mini Bluetooth Speaker 2.jpg",
+      "/assets/img/product/speakers/EWA A106 Portable Mini Bluetooth Speaker 3.jpg"
+      
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -735,7 +746,7 @@
     "id": "35",
     "sku": "asdf157",
     "name": "Lorem ipsum ",
-    "price": 10.6,
+    "price": 21.99,
     "discount": 10,
     "new": true,
     "rating": 5,
@@ -845,7 +856,7 @@
   {
     "id": "41",
     "sku": "asdf163",
-    "name": "Lorem ipsum ",
+    "name": "Ultimate Ears MEGABOOM 3 ",
     "price": 32.5,
     "discount": 10,
     "new": true,
@@ -855,11 +866,9 @@
     "tag": [""],
     "stock": 6,
     "image": [
-      "/assets/img/product/fruits/8.jpg",
-      "/assets/img/product/fruits/1.jpg",
-      "/assets/img/product/fruits/2.jpg",
-      "/assets/img/product/fruits/3.jpg",
-      "/assets/img/product/fruits/4.jpg"
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 1.jpg",
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 2.jpg",
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -869,7 +878,7 @@
   {
     "id": "88",
     "sku": "asdf210",
-    "name": "Lorem ipsu",
+    "name": "Huawei Mate P40 Pro",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
@@ -880,11 +889,11 @@
     "tag": [""],
     "stock":6,
     "image": [
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg"
+      "/assets/img/product/phones/p40pro.jpg",
+      "/assets/img/product/phones/p40f.jpg",
+      "/assets/img/product/phones/p40b.jpg",
+      "/assets/img/product/phones/p40f.jpg",
+      "/assets/img/product/phones/p40b.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -892,7 +901,7 @@
   {
     "id": "89",
     "sku": "asdf211",
-    "name": "Lorem ipsu",
+    "name": "Huawei Mate 20",
     "price": 18.5,
     "discount": 15,
     "new": false,
@@ -902,11 +911,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg"
+      "/assets/img/product/phones/mate20.jpg",
+      "/assets/img/product/phones/mate20d.jpg",
+      "/assets/img/product/phones/mate20b.jpg",
+      "/assets/img/product/phones/mate20.jpg",
+      "/assets/img/product/phones/mate20.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -915,7 +924,7 @@
   {
     "id": "90",
     "sku": "asdf212",
-    "name": "Lorem ipsum ",
+    "name": "Samsung Note 20 ",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
@@ -926,11 +935,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg"
+      "/assets/img/product/phones/note20f.jpg",
+      "/assets/img/product/phones/note20.jpg",
+      "/assets/img/product/phones/note20black.jpg",
+      "/assets/img/product/phones/note20f.jpg",
+      "/assets/img/product/phones/note20f.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -938,7 +947,7 @@
   {
     "id": "91",
     "sku": "asdf213",
-    "name": "Lorem ipsum",
+    "name": "Samsung Note 10",
     "price": 15.5,
     "discount": 30,
     "new": true,
@@ -948,11 +957,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg"
+      "/assets/img/product/phones/note10.jpg",
+      "/assets/img/product/phones/note10black.jpg",
+      "/assets/img/product/phones/note10f.jpg",
+      "/assets/img/product/phones/note10p.jpg",
+      "/assets/img/product/phones/note10.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -960,7 +969,7 @@
   {
     "id": "92",
     "sku": "asdf214",
-    "name": "Lorem ipsum",
+    "name": "IPhone14 Pro Max ",
     "price": 25.5,
     "discount": 10,
     "new": true,
@@ -970,11 +979,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg"
+      "/assets/img/product/phones/iphone_14_pro_max.png",
+      "/assets/img/product/phones/iphone_14_pro_max_black.png",
+      "/assets/img/product/phones/iphone_14_pro_max_white.png",
+      "/assets/img/product/phones/iphone_14_pro_max.png",
+      "/assets/img/product/phones/iphone_14_pro_max.png"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -982,7 +991,7 @@
   {
     "id": "93",
     "sku": "asdf215",
-    "name": "Lorem ipsu",
+    "name": "IPhone14 Plus ",
     "price": 19.85,
     "discount": 20,
     "offerEnd": "October 17, 2024 12:11:00",
@@ -993,11 +1002,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg"
+      "/assets/img/product/phones/i14plusred.jpg",
+      "/assets/img/product/phones/i14plusred.jpg",
+      "/assets/img/product/phones/i14plusgray.jpg",
+      "/assets/img/product/phones/i14plusgray.jpg",
+      "/assets/img/product/phones/i14plusred.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -1005,7 +1014,7 @@
   {
     "id": "94",
     "sku": "asdf216",
-    "name": "Lorem ipsum ",
+    "name": "Huawei mate40 ",
     "price": 55.5,
     "discount": 40,
     "new": true,
@@ -1015,11 +1024,12 @@
     "tag": [""],
     "stock":10,
     "image":[
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg"
+      "/assets/img/product/phones/mate40.jpg",
+      "/assets/img/product/phones/mate40b.jpg",
+      "/assets/img/product/phones/mate40d.jpg",
+      "/assets/img/product/phones/mate40d.jpg",
+      "/assets/img/product/phones/mate40.jpg"
+      
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -1027,7 +1037,7 @@
   {
     "id": "95",
     "sku": "asdf217",
-    "name": "Lorem ipsum ",
+    "name": "Huawei Nova 10 Pro",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
@@ -1038,15 +1048,14 @@
     "tag": ["", ""],
     "stock": 0,
     "image": [
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg"
+      "/assets/img/product/phones/nova10pro.jpg",
+      "/assets/img/product/phones/nova10prob.jpg",
+      "/assets/img/product/phones/nova10prof.jpg",
+      "/assets/img/product/phones/nova10prof.jpg",
+      "/assets/img/product/phones/nova10pro.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
   }
- 
   
 ]
