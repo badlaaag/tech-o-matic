@@ -70,11 +70,11 @@ const cartSlice = createSlice({
                 }
             }
 
-            cogoToast.success("Added To Cart", {position: "bottom-left"});
+            cogoToast.success("Added To Cart", {position: "top-center"});
         },
         deleteFromCart(state, action) {
             state.cartItems = state.cartItems.filter(item => item.cartItemId !== action.payload);
-            cogoToast.error("Removed From Cart", {position: "bottom-left"});
+            cogoToast.error("Removed From Cart", {position: "top-center"});
         },
         decreaseQuantity(state, action){
             const product = action.payload;
