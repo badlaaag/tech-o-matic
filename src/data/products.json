@@ -869,7 +869,7 @@
   {
     "id": "88",
     "sku": "asdf210",
-    "name": "Lorem ipsu",
+    "name": "IPhone14 Plus ",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
@@ -880,11 +880,11 @@
     "tag": [""],
     "stock":6,
     "image": [
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg"
+      "/assets/img/product/phones/i14plusred.jpg",
+      "/assets/img/product/phones/i14plusred.jpg",
+      "/assets/img/product/phones/i14plusgray.jpg",
+      "/assets/img/product/phones/i14plusgray.jpg",
+      "/assets/img/product/phones/i14plusred.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -892,7 +892,7 @@
   {
     "id": "89",
     "sku": "asdf211",
-    "name": "Lorem ipsu",
+    "name": "IPhone14 Pro Max",
     "price": 18.5,
     "discount": 15,
     "new": false,
@@ -902,11 +902,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg"
+      "/assets/img/product/phones/iphone_14_pro_max.png",
+      "/assets/img/product/phones/iphone_14_pro_max_black.png",
+      "/assets/img/product/phones/iphone_14_pro_max_white.png",
+      "/assets/img/product/phones/iphone_14_pro_max.png",
+      "/assets/img/product/phones/iphone_14_pro_max.png"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -915,7 +915,7 @@
   {
     "id": "90",
     "sku": "asdf212",
-    "name": "Lorem ipsum ",
+    "name": "Samsung Note 10",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
@@ -926,11 +926,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg"
+      "/assets/img/product/phones/note10.jpg",
+      "/assets/img/product/phones/note10black.jpg",
+      "/assets/img/product/phones/note10f.jpg",
+      "/assets/img/product/phones/note10p.jpg",
+      "/assets/img/product/phones/note10.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -938,7 +938,7 @@
   {
     "id": "91",
     "sku": "asdf213",
-    "name": "Lorem ipsum",
+    "name": "Samsung Note 20",
     "price": 15.5,
     "discount": 30,
     "new": true,
@@ -948,11 +948,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg"
+      "/assets/img/product/phones/note20f.jpg",
+      "/assets/img/product/phones/note20.jpg",
+      "/assets/img/product/phones/note20black.jpg",
+      "/assets/img/product/phones/note20f.jpg",
+      "/assets/img/product/phones/note20f.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -960,7 +960,7 @@
   {
     "id": "92",
     "sku": "asdf214",
-    "name": "Lorem ipsum",
+    "name": "Huawei Mate 20",
     "price": 25.5,
     "discount": 10,
     "new": true,
@@ -970,11 +970,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg"
+      "/assets/img/product/phones/mate20.jpg",
+      "/assets/img/product/phones/mate20d.jpg",
+      "/assets/img/product/phones/mate20b.jpg",
+      "/assets/img/product/phones/mate20.jpg",
+      "/assets/img/product/phones/mate20.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -982,7 +982,7 @@
   {
     "id": "93",
     "sku": "asdf215",
-    "name": "Lorem ipsu",
+    "name": "Huawei Mate P40 Pro",
     "price": 19.85,
     "discount": 20,
     "offerEnd": "October 17, 2024 12:11:00",
@@ -993,11 +993,11 @@
     "tag": [""],
     "stock":10,
     "image": [
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg"
+      "/assets/img/product/phones/p40pro.jpg",
+      "/assets/img/product/phones/p40f.jpg",
+      "/assets/img/product/phones/p40b.jpg",
+      "/assets/img/product/phones/p40f.jpg",
+      "/assets/img/product/phones/p40b.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -1005,7 +1005,7 @@
   {
     "id": "94",
     "sku": "asdf216",
-    "name": "Lorem ipsum ",
+    "name": "Ultimate Ears MEGABOOM 3 ",
     "price": 55.5,
     "discount": 40,
     "new": true,
@@ -1015,11 +1015,9 @@
     "tag": [""],
     "stock":10,
     "image":[
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg"
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 1.jpg",
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 2.jpg",
+      "/assets/img/product/speakers/Ultimate Ears MEGABOOM 3 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -1027,7 +1025,7 @@
   {
     "id": "95",
     "sku": "asdf217",
-    "name": "Lorem ipsum ",
+    "name": "JBL CHARGE 5 - Portable Bluetooth Speaker",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
@@ -1038,11 +1036,11 @@
     "tag": ["", ""],
     "stock": 0,
     "image": [
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg"
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 1.jpg",
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 2.jpg",
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 3.jpg"
+
+
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
