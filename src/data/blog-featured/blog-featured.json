@@ -2,28 +2,28 @@
   {
     "id": 1,
     "image": "/assets/img/blog/blog-1.jpg",
-    "category": ["lifestyle", "men"],
-    "title": "A guide to latest trends",
+    "category": ["newsupdate", "men"],
+    "title": "Samsung News Update",
     "url": "/blog-details-standard",
-    "author": "Admin",
+    "author": "Pedro",
     "authorUrl": "/blog-standard"
   },
   {
     "id": 2,
     "image": "/assets/img/blog/blog-2.jpg",
-    "category": ["lifestyle"],
-    "title": "Five ways to lead a happy life",
+    "category": ["newsupdate"],
+    "title": "Mac Sales",
     "url": "/blog-details-standard",
-    "author": "Admin",
+    "author": "Jake",
     "authorUrl": "/blog-standard"
   },
   {
     "id": 3,
     "image": "/assets/img/blog/blog-3.jpg",
-    "category": ["lifestyle"],
-    "title": "Tips on having a happy life",
+    "category": ["newsupdate"],
+    "title": "Huawei has lost its smartphone crown. It may never get it back",
     "url": "/blog-details-standard",
-    "author": "Admin",
+    "author": "Michelle",
     "authorUrl": "/blog-standard"
   }
 ]
