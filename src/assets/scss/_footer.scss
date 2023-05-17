@@ -1,4 +1,4 @@
-/*-------- 8. Footer style  -----*/
+/*--------Footer style  -----*/
 
 .copyright {
   .footer-logo {
@@ -249,7 +249,7 @@
   }
 }
 
-/* home 4 */
+/* */
 
 .hm4-footer-padding .container-fluid {
   padding: 0 60px;
@@ -311,143 +311,3 @@
   }
 }
 
-/* home 5 */
-
-.footer-top {
-  position: relative;
-  z-index: 9;
-  p {
-    line-height: 28px;
-
-    width: 55%;
-    margin: 31px auto 33px;
-
-    color: #fffefe;
-    @media #{$md-layout} {
-      width: 85%;
-    }
-    @media #{$xs-layout} {
-      width: 100%;
-    }
-  }
-  .footer-social {
-    ul {
-      display: flex;
-      justify-content: center;
-      li {
-        line-height: 1;
-
-        position: relative;
-
-        margin: 0 23px;
-        &:before {
-          position: absolute;
-          top: 50%;
-          right: -30px;
-
-          width: 16px;
-          height: 2px;
-
-          content: "";
-          transform: translateY(-50%);
-
-          background-color: #7c7b7b;
-        }
-        &:last-child:before {
-          display: none;
-        }
-        a {
-          font-size: 16px;
-
-          color: #e5e5e5;
-          &:hover {
-            color: $theme-color;
-          }
-        }
-      }
-    }
-    &.footer-social-white {
-      ul {
-        li {
-          &:before {
-            background-color: #fff;
-          }
-        }
-      }
-    }
-  }
-  &.pb-60 {
-    @media #{$xs-layout} {
-      padding-bottom: 60px;
-    }
-  }
-}
-.footer-bottom {
-  position: relative;
-  z-index: 9;
-}
-.copyright-2 {
-  margin-top: 60px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-
-  border-top: 1px solid #ccc;
-  p {
-    line-height: 1;
-
-    color: #fff;
-    a {
-      color: #fff;
-      &:hover {
-        color: $theme-color;
-      }
-    }
-  }
-  &.copyright-white-border {
-    border-top: 1px solid #cccccc;
-  }
-  &.copyright-gray {
-    p {
-      color: #ffffff;
-      a {
-        letter-spacing: 0.9px;
-
-        color: #848484;
-        &:hover {
-          color: $theme-color;
-        }
-      }
-    }
-  }
-}
-
-.footer-white {
-  .footer-top {
-    p {
-      color: #ffffff;
-    }
-    .footer-social {
-      ul {
-        li {
-          a {
-            color: #000;
-            &:hover {
-              color: $theme-color;
-            }
-          }
-        }
-      }
-    }
-  }
-  .copyright-2 {
-    margin-top: 0;
-    padding-top: 20px;
-    padding-bottom: 23px;
-
-    border-top: none;
-  }
-}
-
-.footer-border {
-  border-top: 1px solid #e2e2e2;
-}
