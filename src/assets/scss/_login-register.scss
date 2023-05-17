@@ -23,7 +23,7 @@
         }
       }
       a.active h4 {
-        color: $theme-color;
+        color: #531516;
       }
 
       &:before {
@@ -110,7 +110,7 @@
             text-transform: uppercase;
             transition: all 0.3s ease 0s;
             &:hover {
-              background-color: $theme-color;
+              background-color: #531516;
               color: #fff;
             }
           }
