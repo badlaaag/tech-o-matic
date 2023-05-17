@@ -5,6 +5,7 @@
   import SEO from "../../components/seo";
   import LayoutOne from "../../layouts/LayoutOne";
   import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
+  import OrderConfirmation from "../../components/OrderConfirmation";
 
   const Checkout = () => {
     let cartTotalPrice = 0;
