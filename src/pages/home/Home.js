@@ -33,7 +33,7 @@ const Home = () => {
         {/* blog featured */}
         <BlogFeatured spaceBottomClass="pb-55" />
         <PopupAd />
-        <Sound />
+        {/* <Sound /> */}
       </LayoutOne>
       
     </Fragment>
