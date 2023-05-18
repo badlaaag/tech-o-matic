@@ -30,10 +30,10 @@ const BlogSidebar = () => {
               </Link>
             </div>
             <div className="sidebar-blog-content">
-              <span>S23 Ultra</span>
+              <span>Nokia</span>
               <h4>
                 <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                  Samsung
+                  Nokia
                 </Link>
               </h4>
             </div>
@@ -63,7 +63,7 @@ const BlogSidebar = () => {
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/blog/sidebar-3.jpg"
+                    process.env.PUBLIC_URL + "/assets/img/blog/sidebar-4.jpg"
                   }
                   alt=""
                 />
@@ -83,17 +83,17 @@ const BlogSidebar = () => {
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/blog/sidebar-2.jpg"
+                    process.env.PUBLIC_URL + "/assets/img/blog/sidebar-4.jpg"
                   }
                   alt=""
                 />
               </Link>
             </div>
             <div className="sidebar-blog-content">
-              <span>Nokia</span>
+              <span>S23 Ultra</span>
               <h4>
                 <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                  Nokia
+                  Samsung
                 </Link>
               </h4>
             </div>

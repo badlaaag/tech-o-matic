@@ -3,7 +3,7 @@
     "id": 1,
     "image": "/assets/img/blog/blog-1.jpg",
     "category": ["newsupdate", "men"],
-    "title": "Samsung News Update",
+    "title": "The Samsung",
     "url": "/blog-details-standard",
     "author": "Pedro",
     "authorUrl": "/blog-standard"
@@ -21,7 +21,7 @@
     "id": 3,
     "image": "/assets/img/blog/blog-3.jpg",
     "category": ["newsupdate"],
-    "title": "Huawei has lost its smartphone crown. It may never get it back",
+    "title": "Huawei has lost its smartphone crown.",
     "url": "/blog-details-standard",
     "author": "Michelle",
     "authorUrl": "/blog-standard"

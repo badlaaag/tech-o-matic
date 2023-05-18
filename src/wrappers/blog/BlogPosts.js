@@ -150,7 +150,7 @@ const BlogPosts = () => {
             </div>
             <h4>
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                Ipsum blog post two
+                The Game Changer?
               </Link>
             </h4>
             <p>
@@ -212,7 +212,7 @@ const BlogPosts = () => {
             </div>
             <h4>
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                New shop collection
+                The Latest of Huawei
               </Link>
             </h4>
             <p>
@@ -274,7 +274,7 @@ const BlogPosts = () => {
             </div>
             <h4>
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                Lorem blog post four
+                Samsung Galaxy S23 Ultra 
               </Link>
             </h4>
             <p>
@@ -336,7 +336,7 @@ const BlogPosts = () => {
             </div>
             <h4>
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                Ipsum blog post five
+               The New IPhone 14
               </Link>
             </h4>
             <p>

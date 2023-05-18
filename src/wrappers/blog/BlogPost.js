@@ -22,7 +22,7 @@ const BlogPost = () => {
               </li>
             </ul>
           </div>
-          <h3>14 Emerging Fashion Influencers Who Are Going to Own 2018</h3>
+          <h3>The Samsung Company</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -66,7 +66,7 @@ const BlogPost = () => {
               <img
                 alt=""
                 src={
-                  process.env.PUBLIC_URL + "/assets/img/blog/blog-details-2.jpg"
+                  process.env.PUBLIC_URL + "/assets/img/blog/blog-details.jpg"
                 }
               />
             </div>
