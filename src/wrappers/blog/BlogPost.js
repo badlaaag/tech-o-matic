@@ -8,7 +8,7 @@ const BlogPost = () => {
         <div className="blog-details-img">
           <img
             alt=""
-            src={process.env.PUBLIC_URL + "/assets/img/blog/blog-5.jpg"}
+            src={process.env.PUBLIC_URL + "/assets/img/blog/blog-1.jpg"}
           />
         </div>
         <div className="blog-details-content">

@@ -8,7 +8,7 @@ const BlogPosts = () => {
           <div className="blog-img-2">
             <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
               <img
-                src={process.env.PUBLIC_URL + "/assets/img/blog/blog-9.jpg"}
+                src={process.env.PUBLIC_URL + "/assets/img/blog/blog-2.jpg"}
                 alt=""
               />
             </Link>
@@ -26,7 +26,7 @@ const BlogPosts = () => {
             </div>
             <h4>
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                Lorem ipsum blog post
+                Mac Sales
               </Link>
             </h4>
             <p>
@@ -70,7 +70,7 @@ const BlogPosts = () => {
           <div className="blog-img-2">
             <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
               <img
-                src={process.env.PUBLIC_URL + "/assets/img/blog/blog-8.jpg"}
+                src={process.env.PUBLIC_URL + "/assets/img/blog/blog-3.jpg"}
                 alt=""
               />
             </Link>
@@ -88,7 +88,7 @@ const BlogPosts = () => {
             </div>
             <h4>
               <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
-                New collection of our shop
+              Huawei has lost its smartphone crown. It may never get it back
               </Link>
             </h4>
             <p>
