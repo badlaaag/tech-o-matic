@@ -602,7 +602,7 @@
   {
     "id": "29",
     "sku": "asdf151",
-    "name": "Lorem ipsum ",
+    "name": "Erkei Sehn Waterproof Wireless Speaker ",
     "price": 14.5,
     "discount": 30,
     "new": false,
@@ -612,11 +612,10 @@
     "tag": [""],
     "stock": 40,
     "image": [
-      "/assets/img/product/plants/4.jpg",
-      "/assets/img/product/plants/5.jpg",
-      "/assets/img/product/plants/6.jpg",
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg"
+
+      "/assets/img/product/speakers/Erkei Sehn Waterproof Wireless Speaker 1.jpg",
+      "/assets/img/product/speakers/Erkei Sehn Waterproof Wireless Speaker 2.jpg",
+      "/assets/img/product/speakers/Erkei Sehn Waterproof Wireless Speaker 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -624,7 +623,7 @@
   {
     "id": "30",
     "sku": "asdf152",
-    "name": "Lorem ipsum ",
+    "name": "Bose SoundLink Flex Bluetooth Portable Speaker ",
     "price": 22.5,
     "discount": 10,
     "new": true,
@@ -634,11 +633,10 @@
     "tag": [""],
     "stock": 45,
     "image": [
-      "/assets/img/product/plants/5.jpg",
-      "/assets/img/product/plants/6.jpg",
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg"
+    
+      "/assets/img/product/speakers/Bose SoundLink Flex Bluetooth Portable Speaker 1.jpg",
+      "/assets/img/product/speakers/Bose SoundLink Flex Bluetooth Portable Speaker 2.jpg",
+      "/assets/img/product/speakers/Bose SoundLink Flex Bluetooth Portable Speaker 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -646,7 +644,7 @@
   {
     "id": "31",
     "sku": "asdf153",
-    "name": "Lorem ipsum ",
+    "name": "EWA A106 Portable Mini Bluetooth Speaker ",
     "price": 12.5,
     "discount": 0,
     "new": false,
@@ -656,11 +654,10 @@
     "tag": [""],
     "stock": 5,
     "image": [
-      "/assets/img/product/plants/6.jpg",
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg",
-      "/assets/img/product/plants/2.jpg"
+  
+      "/assets/img/product/speakers/EWA A106 Portable Mini Bluetooth Speaker 1.jpg",
+      "/assets/img/product/speakers/EWA A106 Portable Mini Bluetooth Speaker 2.jpg",
+      "/assets/img/product/speakers/EWA A106 Portable Mini Bluetooth Speaker 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -668,7 +665,7 @@
   {
     "id": "32",
     "sku": "asdf154",
-    "name": "Lorem ipsum ",
+    "name": "JBL CHARGE 5 - Portable Bluetooth Speaker  ",
     "price": 22.5,
     "discount": 20,
     "new": true,
@@ -678,11 +675,10 @@
     "tag": [""],
     "stock": 7,
     "image": [
-      "/assets/img/product/plants/7.jpg",
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg",
-      "/assets/img/product/plants/2.jpg",
-      "/assets/img/product/plants/3.jpg"
+    
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 1.jpg",
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 2.jpg",
+      "/assets/img/product/speakers/JBL CHARGE 5 - Portable Bluetooth Speaker 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -690,7 +686,7 @@
   {
     "id": "33",
     "sku": "asdf155",
-    "name": "Lorem ipsum ",
+    "name": "JBL Clip 3, Black - Waterproof  ",
     "price": 32.5,
     "discount": 10,
     "new": true,
@@ -700,11 +696,10 @@
     "tag": [""],
     "stock": 6,
     "image": [
-      "/assets/img/product/plants/8.jpg",
-      "/assets/img/product/plants/1.jpg",
-      "/assets/img/product/plants/2.jpg",
-      "/assets/img/product/plants/3.jpg",
-      "/assets/img/product/plants/4.jpg"
+   
+      "/assets/img/product/speakers/JBL Clip 3, Black - Waterproof 1.jpg",
+      "/assets/img/product/speakers/JBL Clip 3, Black - Waterproof 2.jpg",
+      "/assets/img/product/speakers/JBL Clip 3, Black - Waterproof 3.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -712,7 +707,7 @@
   {
     "id": "34",
     "sku": "asdf156",
-    "name": "Lorem ipsum ",
+    "name": "Ortizan Portable Bluetooth Speaker ",
     "price": 15.6,
     "discount": 0,
     "new": false,
@@ -722,11 +717,10 @@
     "tag": [""],
     "stock": 15,
     "image": [
-      "/assets/img/product/fruits/1.jpg",
-      "/assets/img/product/fruits/2.jpg",
-      "/assets/img/product/fruits/3.jpg",
-      "/assets/img/product/fruits/4.jpg",
-      "/assets/img/product/fruits/5.jpg"
+      "/assets/img/product/speakers/Ortizan Portable Bluetooth Speaker 1.jpg",
+      "/assets/img/product/speakers/Ortizan Portable Bluetooth Speaker 2.jpg",
+      "/assets/img/product/speakers/Ortizan Portable Bluetooth Speaker 3.jpg"
+    
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
